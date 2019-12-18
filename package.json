@@ -1,0 +1,13 @@
+{
+  "name": "watermark",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "image-watermark-2": "^0.0.9",
+    "jimp": "^0.9.3"
+  }
+}
